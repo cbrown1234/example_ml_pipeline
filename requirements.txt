@@ -1,0 +1,8 @@
+# original model dev packages
+jupyter==1.0.0
+pandas==1.1.2
+pip-chill==1.0.0
+scikit-learn==0.23.2
+
+# production
+fastapi[all]
